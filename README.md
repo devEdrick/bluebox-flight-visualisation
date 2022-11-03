@@ -24,3 +24,19 @@ To serve project [http://localhost:8080](http://localhost:8080), by run the foll
 ``` bash
 php artisan serve --port 8080
 ```
+
+## Output
+
+#### Main Page
+![#1](storage/images/1.png)
+
+#### Timeline Item Details
+![#2](storage/images/2.png)
+
+#### Timeline filter by date range (Default 2020-08-01 - 2020-08-02)
+![#3](storage/images/3.png)
+
+## Legend
+- ![#1746A2](https://placehold.co/15x15/1746A2/1746A2.png) - `Flight` 
+- ![#5F9DF7](https://placehold.co/15x15/5F9DF7/5F9DF7.png) - `Wow Box`
+
