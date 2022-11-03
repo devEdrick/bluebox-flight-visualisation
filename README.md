@@ -4,7 +4,7 @@ To create a timeline visualisation of flights by several aircraft, and the opera
 
 ## Getting started
 
-Assuming you've already installed on your machine: PHP (>= 7.0.0), [Git](https://git-scm.com/) and [Composer](https://getcomposer.org).
+Assuming you've already installed on your machine: PHP (>= 8.0.0), [Git](https://git-scm.com/) and [Composer](https://getcomposer.org).
 
 ##### Clone repository
 ``` bash
